@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.972406a1.css",
+    "main.js": "/portfolio/static/js/main.03cce589.js",
+    "static/media/me.jpg": "/portfolio/static/media/me.f2ba3752078d7277e260.jpg",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.5f98e585aaa2649ffd82.jpg",
+    "static/media/NET core.png": "/portfolio/static/media/NET core.d057a6b73aeb081bb728.png",
+    "index.html": "/portfolio/index.html",
+    "main.972406a1.css.map": "/portfolio/static/css/main.972406a1.css.map",
+    "main.03cce589.js.map": "/portfolio/static/js/main.03cce589.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.972406a1.css",
+    "static/js/main.03cce589.js"
+  ]
+}
