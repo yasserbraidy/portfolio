@@ -10,6 +10,5 @@ const root = ReactDOM.createRoot(
 root.render(
     <BrowserRouter>
     <App />
-    <p className="hh">sxs</p>
     </BrowserRouter>
 );
